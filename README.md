@@ -19,10 +19,17 @@ Specyficzyncyh reguł odnośnie samych domen można się nauczyć, ale jest spor
 ### *Inwestycja w domeny, scenariusze, strategie
 
 #### Pojęcia
+
 + Inwestycja oznacza dodanie wartości do istniejącego dobra, w celu uzyskania większych zysków, np inwestycja w oprogramowanie w celu zwiększenia wydajności.
 + Spekulacja polega na sprzedaży dobra bez wnoszenia wartości a skupieniu się na uzyskaniu wyższej ceny poprzez warunki środowiska w którym odbywa się wymiana.
 
 Przy sprzedaży domen możliwe są 2 scenariusze, ale najczęściej występuje spekulacja, która polega na rezerwacji unikalnej nazwy w celu jej dalszego odsprzedania, bez tworzenia wartości wokół samej domeny a skupieniu się na znalezieniu kupca na wyższą cenę niż cena zakupu/odkupu.
+
+Zdarzają się sprzedaże poniżej ceny zakupu z różnych względów, ponieważ domena internetowa mimo, że niepotwarzalna podlega różnym rynkowym i prawnym regułóm.
+Np. specyficzna nazwa, nazwisko, może nie leżeć w kręgu zainteresowania 
+Trademark, zarejestrowany patent może podlegać ochronie i domena naruszająca prawa właściciela może zostać odebrana.
+
+
 
 
 + [RAPORT ROCZNY](2023/RAPORT.md)
