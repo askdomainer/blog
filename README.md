@@ -48,7 +48,26 @@ Trademark, zarejestrowany patent może podlegać ochronie i domena naruszająca 
 
 ### Sprzedaż domeny z rynku wtórnego po już nie istniejącym projekcie
 
+W przypadku sprzedaży domeny z rynku wtórnego po nieistniejącym projekcie istnieje kilka czynników, które mogą wpływać na wartość i potencjalną sprzedaż domeny:
 
+#### Historia domeny
+Istotne jest, czy domena była wcześniej wykorzystywana w jakimś projekcie, jaka była jego popularność i reputacja. Jeśli domena miała duże zainteresowanie użytkowników, może to wpłynąć na większe zainteresowanie potencjalnych nabywców.
+
+#### Pozycjonowanie w wyszukiwarkach
+Jeśli domena była wcześniej skojarzona z odpowiednio zoptymalizowaną stroną internetową, która miała dobre pozycjonowanie w wyszukiwarkach, może to zwiększyć wartość domeny i jej atrakcyjność dla nabywców.
+
+#### Wiek domeny
+Starsze domeny często są postrzegane jako bardziej wartościowe, poniew
+
+#### Ilość domen wolnych
+Ilość innych domen wolnych w innych rozszerzeniach z tą nazwą
+
+#### Język nazwy domeny (keyword)
+
+
+#### Rozszerzenie 
++ krajowe: ccTLD country code TLD
++ funkcjonalne: gTLD
 
 MVP
 
