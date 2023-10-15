@@ -36,6 +36,24 @@ Trademark, zarejestrowany patent może podlegać ochronie i domena naruszająca 
 + Jakie domeny są chętniej kupowane
 + statystyki pomocne w ocenie
 
+
+### Rejestry pomocne w utrzymaniu portfolio wielu setek, tysięcy domen w Polsce
+
++ cechy
++ koszty
++ zarządzanie
+
+### Sprzedaż domeny z rynku wtórnego po już nie istniejącym projekcie
+
+
+
+MVP
+
++ Wizytówka
++ Kontakt
++ podłaczenie przez CNAME do SaaS
+
+
   
 
 
