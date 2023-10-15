@@ -37,6 +37,9 @@ Trademark, zarejestrowany patent może podlegać ochronie i domena naruszająca 
 + statystyki pomocne w ocenie
 
 
+### Portale z listą transakcji na rynku domen
+
+
 ### Rejestry pomocne w utrzymaniu portfolio wielu setek, tysięcy domen w Polsce
 
 + cechy
