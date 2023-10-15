@@ -29,7 +29,14 @@ Zdarzają się sprzedaże poniżej ceny zakupu z różnych względów, ponieważ
 Np. specyficzna nazwa, nazwisko, może nie leżeć w kręgu zainteresowania 
 Trademark, zarejestrowany patent może podlegać ochronie i domena naruszająca prawa właściciela może zostać odebrana.
 
+### Polski wtórny rynek domen internetowych
 
++ Jakie są historyczne sprzedaże
++ Jakie formy sprzedaży miała miejsce, domena z serwisem, prawami, itp
++ Jakie domeny są chętniej kupowane
++ statystyki pomocne w ocenie
+
+  
 
 
 + [RAPORT ROCZNY](2023/RAPORT.md)
