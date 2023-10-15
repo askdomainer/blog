@@ -80,3 +80,10 @@ Potrzeby właściciela domen:
 
 
 Narzędzie dedykowane Domager
++ on demand
++ niezależny rozwój, dopasowany do potrzeb klientów
++ możliwość dodawania nowych modułów
++ dodawanie marketplaceu rozwiązań
++ integracja z setkami rejestratorów na całym świecie
++ support dostępny w dni robocze dla każdeg
++ pogotowie dostepne 21h/dobę
