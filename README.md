@@ -54,7 +54,12 @@ MVP
 + podłaczenie przez CNAME do SaaS
 
 
-  
+### Zakup domeny
++ poszukiwanie
++ research
++ marketplace
++ b2b
++ prywatna
 
 
 + [RAPORT ROCZNY](2023/RAPORT.md)
