@@ -57,7 +57,19 @@ Istotne jest, czy domena była wcześniej wykorzystywana w jakimś projekcie, ja
 Jeśli domena była wcześniej skojarzona z odpowiednio zoptymalizowaną stroną internetową, która miała dobre pozycjonowanie w wyszukiwarkach, może to zwiększyć wartość domeny i jej atrakcyjność dla nabywców.
 
 #### Wiek domeny
-Starsze domeny często są postrzegane jako bardziej wartościowe, poniew
+Starsze domeny często są postrzegane jako bardziej wartościowe, ponieważ domena internetowa, która istnieje od dłuższego czasu, może budzić większe zaufanie i być bardziej pożądana przez potencjalnych kupców.
+
+#### Unikalność i atrakcyjność nazwy
+Domeny z krótkimi, łatwymi do zapamiętania i rozpoznawalnymi nazwami są zazwyczaj bardziej wartościowe i bardziej chętnie kupowane. Jeśli domena ma związek z popularną marką, tematem lub branżą, może to zwiększyć jej atrakcyjność.
+
+#### Potencjalne zastosowanie domeny
+Jeśli domena ma potencjał do wykorzystania w konkretnym projekcie lub branży, może to również wpłynąć na jej wartość. Na przykład, domena związana z branżą technologiczną może być bardziej atrakcyjna dla firm z tej branży.
+
+Przy sprzedaży domeny z rynku wtórnego po nieistniejącym projekcie, ważne jest również dobrze ocenić wartość domeny, ustalić realistyczną cenę i znaleźć odpowiednich potencjalnych nabywców. W tym celu można skorzystać z platform i serwisów specjalizujących się w sprzedaży domen, jak również korzystać z miejsc, gdzie można promować domenę, takich jak fory internetowe czy grupy na portalach społecznościowych.
+
+
+
+
 
 #### Ilość domen wolnych
 Ilość innych domen wolnych w innych rozszerzeniach z tą nazwą
