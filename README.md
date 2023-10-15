@@ -1,6 +1,16 @@
 # [blog.askdomainer.com](http://blog.askdomainer.com)
 
-powodem powstania bloga jest odpowiadanie na pytania, które prawie każdy mający styczności z domenami sobie zadaje, zwłaszcza Ci, którzy zawodowo starają się zarabiać na handlu domenami internetowymi, a ściślej, prawami do nazw w abonamencie.
+# 2023, Raport narzędzi do zarządzania domenami 
+
++ Technicznie rzecz biorąc
++ Gdy szkoda czasu
+
+w Tej publikacji odpowiem na pytania:
++ Jak zarządzać dwiema lub większą ilośćią portfolio domen internetowych?
++ Jak robić to w sposób zautomatyzowany?
+
+
+Powodem powstania bloga jest odpowiadanie na pytania, które prawie każdy mający styczności z domenami sobie zadaje, zwłaszcza Ci, którzy zawodowo starają się zarabiać na handlu domenami internetowymi, a ściślej, prawami do nazw w abonamencie.
 
 Jak w wielu branżach zarabia ten kto pośredniczy, w przypadku domen internetowych są to rejestry.
 
@@ -34,6 +44,39 @@ A może strategia zakładająca te wszystkie elementy?
 + 
 
 
+#
+Skoro domena internetowa jest częścią infratsruktury i podlega techcznym operacjom, takim jak:
++ przedłużenie ważności
++ zmiana abonenta
++ ...
 
-Gdy 
-szkoda czasu
+To oczywiste jest , że w cyfrowym otoczeniu prawnym można wiele z tychj operacji zautomatyzować co dzieje się od początku.
+Dziś, gdy niektóre procesy delegujemy sztucznej inteligencji, możemy uzyskać wiele dodatkowych korzyści w kontekście rynku domen.
+
+### Korzyści z AI
+
+
+
+### Wady 
+
+
+
+
+## narzędzia
+
++ bazujące na rejestrze
++ operatorzy cloud
++ własne rozwiąania
++ licencjonowane
+
+Potrzeby właściciela domen:
+
++ zakup -> poszukiwania odpowiedniej domeny, negocjacje, ochrona kupujących
++ sprzedaż -> oferta i ochrona transakcji, np escrow
++ handel -> marketplace
++ Zarządzanie
+
+
+
+
+Narzędzie dedykowane Domager
