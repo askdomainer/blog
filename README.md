@@ -1,5 +1,7 @@
 # [blog.askdomainer.com](http://blog.askdomainer.com)
-
++ [askdomainer/blog: blog.askdomainer.com](https://github.com/askdomainer/blog)
++ [edit](https://github.com/askdomainer/blog/edit/main/README.md)
+  
 # 2023, Raport narzędzi do zarządzania domenami 
 
 + Technicznie rzecz biorąc
