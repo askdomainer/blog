@@ -55,11 +55,36 @@ MVP
 
 
 ### Zakup domeny
+
 + poszukiwanie
 + research
 + marketplace
 + b2b
 + prywatna
++ wypozycjonowana
++ z przekierowania
++ po istniejącym serwisie
++ zablokowana przez wyszukiwarki
++ zablokowana przez rząd/rejestr
++ trademark
+
+  
+### brak wolnej domeny
+
+
++ pierwotny 
++ wtórny rynek
+  + giełda
+ 
+
+### Partnerstwo przy handlu
+
++ program partnerski
+  + z rejestratorem
+  + z influencerami
++ 
+
+    
 
 
 + [RAPORT ROCZNY](2023/RAPORT.md)
